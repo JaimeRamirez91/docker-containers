@@ -1,4 +1,4 @@
-# SQL server example using a .sh ro restore .bak data bases
+# SQL Server Example Using a Shell Script to Restore .bak Databases
 
 ### Steps to Update SQL Server Setup
 
